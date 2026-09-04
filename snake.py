@@ -10,7 +10,7 @@ import random
 # Configuration & Settings
 # -------------------------------------------------------------
 WIDTH = 800
-HEIGHT = 600
+HEIGHT = 800
 
 # Speed settings (Delay in milliseconds between frames)
 # Higher number = slower snake (easier); lower = faster
