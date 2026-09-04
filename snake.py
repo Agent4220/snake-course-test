@@ -27,7 +27,7 @@ COLOR_BG = "#1e1e2e"          # Dark slate background
 COLOR_BORDER = "#45475a"      # Subtle border
 COLOR_SNAKE_HEAD = "#50fa7b"  # Vibrant green head
 COLOR_SNAKE_BODY = "#2be468"  # Green body segments
-COLOR_FOOD = "#ff5555"        # Bright red apple
+COLOR_FOOD = "#883c3c"        # Bright red apple
 COLOR_TEXT = "#f8f8f2"        # Off-white text
 
 # -------------------------------------------------------------
